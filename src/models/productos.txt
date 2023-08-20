@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Lentejas",
+    "description": " descripción 1",
+    "price": 500,
+    "status": true,
+    "thumbnail": "nuevo2/ruta/imagen.jpg",
+    "category": "asd",
+    "code": "NP112233",
+    "stock": 20,
+    "id": "1"
+  },
+  {
+    "title": "Mani",
+    "description": " descripción 2",
+    "price": 500,
+    "status": true,
+    "thumbnail": "nuevo1/ruta/imagen1.jpg",
+    "category": "abc",
+    "code": "AS123123",
+    "stock": 25,
+    "id": "2"
+  },
+  {
+    "title": "Queso",
+    "description": " descripción 3",
+    "price": 500,
+    "status": true,
+    "thumbnail": "nuevo1/ruta/imagen1.jpg",
+    "category": "abc",
+    "code": "AS123123",
+    "stock": 25,
+    "id": "3"
+  },
+  {
+    "title": "Yogur",
+    "description": " descripción 4",
+    "price": 500,
+    "status": true,
+    "thumbnail": "nuevo1/ruta/imagen1.jpg",
+    "category": "abc",
+    "code": "AS123123",
+    "stock": 25,
+    "id": "4"
+  },
+  {
+    "title": "Fideos",
+    "description": " descripción 5",
+    "price": 500,
+    "status": true,
+    "thumbnail": "nuevo1/ruta/imagen1.jpg",
+    "category": "abc",
+    "code": "AS123123",
+    "stock": 25,
+    "id": "5"
+  },
+  {
+    "title": "Arroz",
+    "description": " descripción 6",
+    "price": 500,
+    "status": true,
+    "thumbnail": "nuevo1/ruta/imagen1.jpg",
+    "category": "abc",
+    "code": "AS123123",
+    "stock": 25,
+    "id": "6"
+  },
+  {
+    "title": "Arvejas",
+    "description": " descripción 7",
+    "price": 500,
+    "status": true,
+    "thumbnail": "nuevo1/ruta/imagen1.jpg",
+    "category": "abc",
+    "code": "AS123123",
+    "stock": 25,
+    "id": "7"
+  },
+  {
+    "title": "Tomate",
+    "description": " descripción 8",
+    "price": 500,
+    "status": true,
+    "thumbnail": "nuevo1/ruta/imagen1.jpg",
+    "category": "abc",
+    "code": "AS123123",
+    "stock": 25,
+    "id": "8"
+  },
+  {
+    "title": "Harina",
+    "description": " descripción 9",
+    "price": 500,
+    "status": true,
+    "thumbnail": "nuevo1/ruta/imagen1.jpg",
+    "category": "abc",
+    "code": "AS123123",
+    "stock": 25,
+    "id": "9"
+  },
+  {
+    "title": "Pescado",
+    "description": " descripción 10",
+    "price": 500,
+    "status": true,
+    "thumbnail": "nuevo1/ruta/imagen1.jpg",
+    "category": "abc",
+    "code": "AS123123",
+    "stock": 25,
+    "id": "10"
+  }
+]
