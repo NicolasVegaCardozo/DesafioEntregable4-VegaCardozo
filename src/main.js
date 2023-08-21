@@ -5,6 +5,7 @@ import routerProd from './routes/products.routes.js';
 import routerCart from './routes/cart.routes.js';
 import { __dirname } from './path.js';
 import path from 'path';
+import { ProductManager } from './controllers/productManager.js';
 
 const PORT = 8080;
 const app = express();
@@ -15,6 +16,8 @@ const server = app.listen(PORT, () => {
 })
 
 const io = new Server(server)
+
+const productManager = new ProductManager();
 
 // Middlewares
 app.use(express.json());
