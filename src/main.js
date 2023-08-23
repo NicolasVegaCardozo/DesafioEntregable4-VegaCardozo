@@ -17,7 +17,7 @@ const server = app.listen(PORT, () => {
 
 const io = new Server(server)
 
-const productManager = new ProductManager();
+const productManager = new ProductManager(path.resolve(__dirname, 'productos.txt'));
 
 // Middlewares
 app.use(express.json());
