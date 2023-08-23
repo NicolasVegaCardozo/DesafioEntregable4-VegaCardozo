@@ -58,3 +58,8 @@ app.get("/api/static", (req, res) => {
     })
 })
 
+app.get("/api/static", async (req, res) => {
+    const products = await productManager.getProducts();
+    res.render("home", { products });
+	console.log(productManager)
+});

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "PC",
+    "description": "para jugar al age of empires 2",
+    "category": "estrategia",
+    "price": "15000",
+    "stock": "20",
+    "code": "123456",
+    "status": true,
+    "id": "3be94d97-7503-4842-a465-b7e0d84d4b56"
+  },
+  {
+    "title": "Auriculares",
+    "description": "Para escuchar musica",
+    "category": "Entretenimiento",
+    "price": "2000",
+    "stock": "15",
+    "code": "1111111A",
+    "status": true,
+    "id": "3bceaee8-d85b-4c04-b325-59ec68c1f540"
+  },
+  {
+    "title": "Bicicleta",
+    "description": "Para trabajar y para pasear",
+    "category": "Bicicletas",
+    "price": "150000",
+    "stock": "30",
+    "code": "1111111B",
+    "status": true,
+    "id": "789637b0-f365-41e6-bf1a-d36da917d47e"
+  },
+  {
+    "title": "Arroz",
+    "description": "Para comer",
+    "category": "Alimentos",
+    "price": "1500",
+    "stock": "200",
+    "code": "4444445",
+    "status": true,
+    "id": "3ca1871c-a041-4f39-b403-b487f789f7da"
+  }
+]
