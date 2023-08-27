@@ -38,5 +38,15 @@
     "code": "4444445",
     "status": true,
     "id": "3ca1871c-a041-4f39-b403-b487f789f7da"
+  },
+  {
+    "title": "Guitarra",
+    "description": "Guitarra acustica",
+    "category": "Instrumento musical",
+    "price": "50000",
+    "stock": "20",
+    "code": "4444555",
+    "status": true,
+    "id": "f021cdbb-0805-4db5-92cd-102e25883f39"
   }
 ]
